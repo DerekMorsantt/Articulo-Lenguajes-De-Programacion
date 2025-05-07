@@ -1,0 +1,19 @@
+.javas {
+    padding: 5rem;
+}
+h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem; 
+  }
+  
+  .articulo3 {
+    background-color: rgb(255, 255, 0);
+  }
+  .img3 {
+    height: 200px;
+    width: auto;
+    margin-top: 2rem;
+}
