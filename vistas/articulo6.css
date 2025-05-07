@@ -1,0 +1,19 @@
+.python {
+    padding: 5rem;
+}
+h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem; 
+  }
+  
+  .articulo6 {
+    background-color: rgb(145, 150, 253);
+  }
+  .img6 {
+    height: 200px;
+    width: auto;
+    margin-top: 2rem;
+}
